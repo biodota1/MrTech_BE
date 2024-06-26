@@ -4,3 +4,31 @@
 06-20-2024	17:18:58	b3985e4c-c513-4fee-81bc-f0b915c90b3d	Error: Not allowed by CORS	GET	/users	undefined
 06-20-2024	17:19:37	479e1f34-c5c5-4a92-ba33-b93b83be48cc	Error: Not allowed by CORS	GET	/users	undefined
 06-20-2024	17:19:47	48a7f609-5dc3-49cb-8093-4316d0fe1113	Error: Not allowed by CORS	GET	/users	undefined
+06-22-2024	01:33:23	5ec319d0-d101-40cd-876c-23a6aea5a78d	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	01:33:28	103cf7b2-2815-4620-a09d-5b563a5260a6	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	01:33:29	e094df4e-8c8c-4fd1-b639-4479fa19c1e8	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	01:33:36	15e52e12-81d5-4e49-b7f7-bda7a97c1759	ReferenceError: eq is not defined	POST	/users	undefined
+06-22-2024	01:34:00	63b4f705-5868-45a4-8fd0-8ea4e6ff066d	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	01:35:32	0a1ce2c1-8a00-4216-9934-4371c04afb02	TypeError: authHeader?.statrtsWith is not a function	GET	/users	undefined
+06-22-2024	02:08:24	fcd7064f-c763-4683-a3f6-9c5bfd507336	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:4777
+06-22-2024	02:08:26	4bb4f4b6-84ac-4739-aec4-0c2b724bf3c5	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:4777
+06-22-2024	02:08:29	3abce657-7298-4c7d-b3ab-285ea9d064c4	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:4777
+06-22-2024	02:10:19	e0b09c48-e652-4c72-a9a2-de73a760612c	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	02:10:49	d5d2c932-4b76-4b0b-8e29-5c8aa6a9ee45	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	02:11:24	1d3835e8-565b-405c-ae62-5854cb19b769	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	02:16:16	ca3ef3bf-c993-4363-bfff-4d64449f8d39	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	02:16:18	6077ef6b-89c6-4f66-8c33-76742ca79d91	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	03:24:23	c978b104-63d0-4314-a1bb-14c1d80212f9	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	03:28:37	d0a0babe-d884-4f08-8467-cf81c40f1bb0	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	03:29:03	906641f5-aa1f-42cf-8273-b3b830b1d195	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	03:32:54	c83f6968-b1fb-4dc5-9dce-3247fc2a682e	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	03:33:03	d2690e86-8ebf-47b3-b4f2-67f07eb24d45	ReferenceError: eq is not defined	GET	/users	undefined
+06-22-2024	04:59:02	09f8feb4-9d64-4334-9c95-eb37c7e59e9c	ReferenceError: eq is not defined	POST	/users	undefined
+06-22-2024	05:00:30	bb3db77d-056e-49c9-a015-b2b12ae04128	ReferenceError: eq is not defined	POST	/users	undefined
+06-22-2024	06:45:23	077a3fdb-7132-4221-b711-063387ffd69e	ReferenceError: eq is not defined	POST	/users	undefined
+06-22-2024	06:49:48	ac6eeb8c-bed9-4c78-86a4-3c2773392dda	ReferenceError: eq is not defined	POST	/users	undefined
+06-22-2024	06:52:13	50b26262-a536-462f-80f5-5a9512ded3c9	ReferenceError: eq is not defined	POST	/users	undefined
+06-22-2024	06:52:27	01160bcd-1fcc-4a06-b0d0-a05d83899848	ReferenceError: eq is not defined	POST	/users	undefined
+06-22-2024	06:55:26	7c086e26-cf1a-4941-9357-27dfcbbdd33c	ReferenceError: eq is not defined	POST	/users	undefined
+06-23-2024	09:29:43	72fa86e1-158a-440b-9c5e-558c1852b78c	Error: Not allowed by CORS	GET	/public?category=undefined	undefined
+06-23-2024	09:29:43	2bcdba04-8831-49fa-b5d2-91499979a296	Error: Not allowed by CORS	GET	/public	undefined

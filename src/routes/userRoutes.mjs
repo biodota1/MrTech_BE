@@ -5,8 +5,11 @@ import {
   getAllUsers,
   updateUser,
 } from "../controllers/userController.mjs";
+import verifyJWT from "../middleware/verifyJWT.mjs";
 
 const userRouter = express.Router();
+
+userRouter.use(verifyJWT);
 
 userRouter
   .route("/")
